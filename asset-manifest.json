@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.0680456c.chunk.css",
+    "main.css": "/static/css/main.70a9aa8d.chunk.css",
     "main.js": "/static/js/main.7a2cda01.chunk.js",
-    "main.js.map": "/static/js/main.7a2cda01.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.02d67cea.chunk.js": "/static/js/2.02d67cea.chunk.js",
-    "static/js/2.02d67cea.chunk.js.map": "/static/js/2.02d67cea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1bafc1c6f91a64e963ac427fd6ad32dd.js": "/precache-manifest.1bafc1c6f91a64e963ac427fd6ad32dd.js",
+    "precache-manifest.bf83a88efa80b3abfb1355a46d308426.js": "/precache-manifest.bf83a88efa80b3abfb1355a46d308426.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0680456c.chunk.css.map": "/static/css/main.0680456c.chunk.css.map",
     "static/media/cueball.png": "/static/media/cueball.62cee232.png",
     "static/media/target-view.png": "/static/media/target-view.8dfa6cf4.png",
     "static/media/top-view.png": "/static/media/top-view.83965708.png"
