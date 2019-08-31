@@ -1,14 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.70a9aa8d.chunk.css",
-    "main.js": "/static/js/main.7c26f97f.chunk.js",
+    "main.css": "/static/css/main.90d1f438.chunk.css",
+    "main.js": "/static/js/main.7612c47d.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "static/js/2.611f6d0a.chunk.js": "/static/js/2.611f6d0a.chunk.js",
+    "static/js/2.a5091f91.chunk.js": "/static/js/2.a5091f91.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.ceb2e4f07692ab97a53b7906c8dd6225.js": "/precache-manifest.ceb2e4f07692ab97a53b7906c8dd6225.js",
+    "precache-manifest.ac758308fe4c9e4216fdd3158ddc7702.js": "/precache-manifest.ac758308fe4c9e4216fdd3158ddc7702.js",
     "service-worker.js": "/service-worker.js",
-    "static/media/cueball.png": "/static/media/cueball.62cee232.png",
-    "static/media/target-view.png": "/static/media/target-view.8dfa6cf4.png",
-    "static/media/top-view.png": "/static/media/top-view.83965708.png"
+    "static/media/cueball.png": "/static/media/cueball.62cee232.png"
   }
 }
